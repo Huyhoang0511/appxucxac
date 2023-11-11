@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "876165729029",
+    "firebase_url": "https://dice-face-default-rtdb.firebaseio.com",
+    "project_id": "dice-face",
+    "storage_bucket": "dice-face.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876165729029:android:2253aa7105c2fe6ce4c56c",
+        "android_client_info": {
+          "package_name": "com.example.appxucxac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWncwFpRdz6kn3M9hARWsl9ungOSD-Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
